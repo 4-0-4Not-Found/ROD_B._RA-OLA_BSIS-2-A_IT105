@@ -1,1 +1,0 @@
-SELECT * FROM bankingsystem.customers;
